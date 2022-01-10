@@ -1,5 +1,5 @@
 Hey, I’m @Loked2
-I like 
+I like:
 - learning random stuff
 - making useless projects.
 
